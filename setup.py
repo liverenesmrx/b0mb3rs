@@ -1,10 +1,10 @@
 from setuptools import setup
 
 NAME = "b0mb3r"
-DESCRIPTION = "Открытый и бесплатный СМС бомбер"
-URL = "https://github.com/crinny/b0mb3r"
+DESCRIPTION = "ok"
+URL = "https://github.com/liverenesmrx/b0mb3rs"
 EMAIL = ""
-AUTHOR = "crinny"
+AUTHOR = "seva"
 REQUIRES_PYTHON = ">=3.7.0"
 VERSION = "3.1.4.1"
 
